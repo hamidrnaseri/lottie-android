@@ -18,6 +18,11 @@
         android:layout_width="match_parent"
         android:layout_height="64dp"
         android:layout_marginBottom="8dp"/>
+    <Button
+        android:id="@+id/speedBasdsadutton"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginBottom="13dp"/>
 
     <Button
         android:id="@+id/colorButton"
